@@ -1,2 +1,2 @@
-# PRE-CORSO ChallangeLezione1: PRESENTAZIONE PERSONALE
-Fare una presentazione in HTML con le nozioni base apprese dalla lezione 1 del PRE-CORSO
+# Pre-Corso EPICODE 
+Tutti gli esercizi relativi alle lezioni del Pre-Corso di EPICODE
