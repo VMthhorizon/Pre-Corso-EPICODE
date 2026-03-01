@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container {
+    background-size: cover;
+    height: 500px;
+}
+
+.napoli .image-container {
+    background-image: url(https://www.napolithatsamore.org/wp-content/uploads/2015/05/cropped-napoli.jpg);
+}
+.teatro-san-carlo .image-container {
+    background-image: url(https://www.progettostoriadellarte.it/wp-content/uploads/2020/01/4-1.jpg);
+}
+.spaccanapoli .image-container {
+    background-image: url(https://www.campania.info/wp-content/uploads/sites/111/spaccanapoli-hd.jpg);
+}
+.piazza-del-plebiscito .image-container {
+    background-image: url(https://www.lanfipepalace.com/wp-content/uploads/2018/04/PiazzadelPlebiscito-1920x800.jpg);
+}
+.napoli-sotterranea .image-container {
+    background-image: url(https://www.10cose.it/wp-content/uploads/2015/12/napoli-sotterranea.jpg);
+    background-position: 70%;
+}
+.largo-maradona .image-container {
+    background-image: url(https://staticfanpage.akamaized.net/wp-content/uploads/sites/30/2023/11/maradona-murale-04--1200x675.jpg);
+}
+
+h1 {
+    font-family: "Prata", serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-family: "Prata", serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.napoli h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #ff5151, #3430ff)
+}
+.napoli-sotterranea h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #ffa82f, #00ff55)
+}
+.piazza-del-plebiscito h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #0011ff, #ffffff)
+}
+.largo-maradona h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #929394, #2be6ff)
+}
+.spaccanapoli h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #ff0000, #eaff00)
+}
+.teatro-san-carlo h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #c0b300, #ff0000)
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px,  #dfdfdf;
+    text-decoration: none;
+}
+
+.list-container li a {
+    text-decoration: none;
+    color: #ff5151;
+}
+
+footer {
+    background-color: black;
+    padding: 16px;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+}
